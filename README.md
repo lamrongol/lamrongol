@@ -1,4 +1,5 @@
 ### Hi there 👋
+Gists: https://gist.github.com/lamrongol
 
 🔭 I’m currently working on ...  
 I'm running Trend Analysis System on Bluesky: https://bsky.app/profile/lamrongol.bsky.social/lists/3kob6kalezl2a
