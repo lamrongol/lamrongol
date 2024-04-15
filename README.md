@@ -44,8 +44,7 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lamrongol)](https://git.io/streak-stats)
 
 ## Github Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=lamrongol)](https://github.com/lamrongol/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=lamrongol)](https://github.com/ryo-ma/github-profile-trophy)
 
 ## Wakatime Stats
 <img src="https://wakatime.com/share/@018e933a-8526-4084-988c-38788d0b49f5/4dfbf94e-5327-4c91-8ef8-2ab32a05f9ec.svg" height="320" width="420"></img>
