@@ -4,6 +4,9 @@ Gists: https://gist.github.com/lamrongol
 🔭 I’m currently working on ...  
 I'm running Trend Analysis System on Bluesky: https://bsky.app/profile/lamrongol.bsky.social/lists/3kob6kalezl2a
 
+Zenn Scraps: https://zenn.dev/lamrongol?tab=scraps
+
+
 💻 **Contributions overview ...**
 <p align="left">
   <a href="https://github.com/lamrongol/lamrongol/">
@@ -15,12 +18,11 @@ I'm running Trend Analysis System on Bluesky: https://bsky.app/profile/lamrongol
   <!-- <a href="https://www.reddit.com/user/lamrongol">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/lamrongol?label=Reddit&logo=reddit&style=flat" />
   </a> -->  
+  <a href="https://qiita.com/lamrongol"><img src="https://badgen.org/img/qiita/lamrongol/contributions?style=plastic" alt="Contributions" /></a>
+  <a href="https://zenn.dev/lamrongol"><img src="https://badgen.org/img/zenn/lamrongol/likes?style=plastic" alt="Likes" /></a>
   <a href="https://stackoverflow.com/users/3809427/lamron">
     <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/3809427?label=StackOverflow&logo=stack-overflow&style=flat" /> 
   </a>
-  <a href="https://qiita.com/lamrongol"><img src="https://badgen.org/img/qiita/lamrongol/contributions?style=plastic" alt="Contributions" /></a>
-  <a href="https://zenn.dev/lamrongol"><img src="https://badgen.org/img/zenn/lamrongol/likes?style=plastic" alt="Likes" /></a>
-  <a href="https://zenn.dev/lamrongol?tab=scraps"><img src="https://badgen.org/img/zenn/lamrongol/scraps?style=plastic" alt="Scraps" /></a>
 </p>
 
 
