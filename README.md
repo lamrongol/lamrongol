@@ -15,9 +15,11 @@ Zenn Scraps: https://zenn.dev/lamrongol?tab=scraps
   <a href="https://github.com/lamrongol">
     <img height="20" src="https://img.shields.io/github/followers/lamrongol?label=followers&logo=github&style=flat" />
   </a>
-  <!-- <a href="https://www.reddit.com/user/lamrongol">
+  <!--
+  <a href="https://www.reddit.com/user/lamrongol">
     <img height="20" src="https://img.shields.io/reddit/user-karma/combined/lamrongol?label=Reddit&logo=reddit&style=flat" />
-  </a> -->  
+  </a>   
+  -->
   <a href="https://qiita.com/lamrongol"><img src="https://badgen.org/img/qiita/lamrongol/contributions?style=plastic" alt="Contributions" /></a>
   <a href="https://zenn.dev/lamrongol"><img src="https://badgen.org/img/zenn/lamrongol/likes?style=plastic" alt="Likes" /></a>
   <a href="https://stackoverflow.com/users/3809427/lamron">
@@ -25,9 +27,7 @@ Zenn Scraps: https://zenn.dev/lamrongol?tab=scraps
   </a>
 </p>
 
-
-
-<!--
+<!-- 
 **lamrongol/lamrongol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -43,10 +43,9 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lamrongol)](https://github.com/anuraghazra/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lamrongol)](https://github.com/anuraghazra/github-readme-stats)
+<!-- 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lamrongol)](https://git.io/streak-stats)
-
-## Github Trophies
-[![trophy](https://github-profile-trophy.vercel.app/?username=lamrongol)](https://github.com/ryo-ma/github-profile-trophy)
+-->
 
 ## Wakatime Stats
 <img src="https://wakatime.com/share/@018e933a-8526-4084-988c-38788d0b49f5/4dfbf94e-5327-4c91-8ef8-2ab32a05f9ec.svg" height="320" width="420"></img>
