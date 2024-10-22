@@ -47,8 +47,9 @@ Here are some ideas to get you started:
 [![GitHub Streak](https://streak-stats.demolab.com/?user=lamrongol)](https://git.io/streak-stats)
 -->
 
-## Wakatime Stats
-<img src="https://wakatime.com/share/@018e933a-8526-4084-988c-38788d0b49f5/4dfbf94e-5327-4c91-8ef8-2ab32a05f9ec.svg" height="320" width="420"></img>
+## Stack Overflow
+<a href="https://ja.stackoverflow.com/users/816/lamron"><img src="https://ja.stackoverflow.com/users/flair/816.png" width="208" height="58" alt="Lamron の スタック・オーバーフロー でのプロフィール、熱狂的でプロフェッショナルなプログラマーのためのQ&amp;A" title="Lamron の スタック・オーバーフロー でのプロフィール、熱狂的でプロフェッショナルなプログラマーのためのQ&amp;A"></a>
+<a href="https://stackoverflow.com/users/3809427/lamron"><img src="https://stackoverflow.com/users/flair/3809427.png" width="208" height="58" alt="profile for Lamron at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Lamron at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 
 💻 **Other Contributions overview ...**
 <p align="left">
