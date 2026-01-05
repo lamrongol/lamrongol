@@ -6,6 +6,7 @@ I'm running Trend Analysis System on Bluesky: https://bsky.app/profile/lamrongol
 
 Zenn Scraps: https://zenn.dev/lamrongol?tab=scraps
 
+I uploads some repository to [tangled](https://tangled.org/did:plc:wwqlk2n45es2ywkwrf4dwsr2)(atproto service)
 
 💻 **Contributions overview ...**
 <p align="left">
