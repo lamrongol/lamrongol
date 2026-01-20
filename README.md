@@ -8,6 +8,10 @@ Zenn Scraps: https://zenn.dev/lamrongol?tab=scraps
 
 I uploads some repository to [tangled](https://tangled.org/did:plc:wwqlk2n45es2ywkwrf4dwsr2)(atproto service)
 
+Browser extension:
+- [Check Periodically](https://github.com/lamrongol/CheckPeriodically)
+- [Copy twitter.com url for preview](https://github.com/lamrongol/copy_twitter.com_address)
+
 💻 **Contributions overview ...**
 <p align="left">
   <a href="https://github.com/lamrongol/lamrongol/">
