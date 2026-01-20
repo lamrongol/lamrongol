@@ -59,8 +59,6 @@ Here are some ideas to get you started:
   <a href="https://zenn.dev/lamrongol"><img src="https://badgen.org/img/zenn/lamrongol/followers?style=plastic" alt="Followers" /></a>
   <a href="https://zenn.dev/lamrongol"><img src="https://badgen.org/img/zenn/lamrongol/articles?style=plastic" alt="Articles" /></a>
   <a href="https://zenn.dev/lamrongol?tab=books"><img src="https://badgen.org/img/zenn/lamrongol/books?style=plastic" alt="Books" /></a>
-  <a href="https://atcoder.jp/users/lamrongol?contestType=algo"><img src="https://badgen.org/img/atcoder/lamrongol/rating/algorithm?style=plastic" alt="Rating" /></a>
-  <a href="https://atcoder.jp/users/lamrongol?contestType=heuristic"><img src="https://badgen.org/img/atcoder/lamrongol/rating/heuristic?style=plastic" alt="Rating(Heuristic)" /></a>
 </p>
 
 icon image: https://commons.wikimedia.org/wiki/File:Lognormal_distribution_PDF.png
